@@ -4,14 +4,14 @@
 
 A website that offers fitness training services.
 
-## Build With
+## Built With
 
 - HTML
 - CSS
 
 ## Website
 
-https://lernantino.github.io/run-buddy/
+https://brookescodestuff.github.io/run-buddy/
 
 ## Contribution
 
